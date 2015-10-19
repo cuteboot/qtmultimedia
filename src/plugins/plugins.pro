@@ -13,7 +13,7 @@ qtHaveModule(quick) {
 }
 
 android {
-   SUBDIRS += android opensles
+   SUBDIRS += opensles
 }
 
 qnx {
